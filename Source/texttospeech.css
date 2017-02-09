@@ -1,0 +1,50 @@
+/**
+ * Created by Ravi on 14-09-2016.
+ */
+.form-control{
+    border-radius:8px;
+}
+.navbar{
+    background: #00b4ff;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.navbar-brand{
+    color:white;
+    padding-left:37%;
+    font-family: Microsoft sans-serif;
+    font-size:35px;
+}
+.form-group{
+    margin-bottom:-12px;
+}
+#logout{
+    color: white;
+    padding-left: 35%;
+    font-family: Micro;
+    padding-top: 1.5%;
+    font-family: Microsoft sans-serif;
+    font-size:15px;
+}
+.glyphicon-off{
+    font-size:13px;
+}
+body{
+    background: url('635977520242240689-2036849578_music-rainbow.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+.row{
+    width:60%;
+}
+#textToSpeechLogo{
+    height:50px;
+    width:50px;
+    float:left;
+    margin-left:30px;
+    margin-top:5px;
+}
+video{
+    margin-left:-160px;
+    margin-top:50px;
+}
